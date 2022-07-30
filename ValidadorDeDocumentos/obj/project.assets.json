@@ -5236,11 +5236,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FeedTechCRUD\\ValidadorDeDocumentos\\ValidadorDeDocumentos.csproj",
+      "projectUniqueName": "C:\\Arthur\\CSharpBrasil\\CSharpBrasil\\ValidadorDeDocumentos\\ValidadorDeDocumentos.csproj",
       "projectName": "ValidadorDeDocumentos",
-      "projectPath": "C:\\FeedTechCRUD\\ValidadorDeDocumentos\\ValidadorDeDocumentos.csproj",
+      "projectPath": "C:\\Arthur\\CSharpBrasil\\CSharpBrasil\\ValidadorDeDocumentos\\ValidadorDeDocumentos.csproj",
       "packagesPath": "C:\\Users\\Arthur\\.nuget\\packages\\",
-      "outputPath": "C:\\FeedTechCRUD\\ValidadorDeDocumentos\\obj\\",
+      "outputPath": "C:\\Arthur\\CSharpBrasil\\CSharpBrasil\\ValidadorDeDocumentos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Arthur\\CSharpBrasil\\CSharpBrasil\\ValidadorDeDocumentos\\ValidadorDeDocumentos.csproj": {}
+    "C:\\Arthur\\CSharpBrasil\\CSharpBrasil\\TrabalhandoComDatas\\TrabalhandoComDatas.csproj": {}
   },
   "projects": {
-    "C:\\Arthur\\CSharpBrasil\\CSharpBrasil\\ValidadorDeDocumentos\\ValidadorDeDocumentos.csproj": {
+    "C:\\Arthur\\CSharpBrasil\\CSharpBrasil\\TrabalhandoComDatas\\TrabalhandoComDatas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Arthur\\CSharpBrasil\\CSharpBrasil\\ValidadorDeDocumentos\\ValidadorDeDocumentos.csproj",
-        "projectName": "ValidadorDeDocumentos",
-        "projectPath": "C:\\Arthur\\CSharpBrasil\\CSharpBrasil\\ValidadorDeDocumentos\\ValidadorDeDocumentos.csproj",
+        "projectUniqueName": "C:\\Arthur\\CSharpBrasil\\CSharpBrasil\\TrabalhandoComDatas\\TrabalhandoComDatas.csproj",
+        "projectName": "TrabalhandoComDatas",
+        "projectPath": "C:\\Arthur\\CSharpBrasil\\CSharpBrasil\\TrabalhandoComDatas\\TrabalhandoComDatas.csproj",
         "packagesPath": "C:\\Users\\Arthur\\.nuget\\packages\\",
-        "outputPath": "C:\\Arthur\\CSharpBrasil\\CSharpBrasil\\ValidadorDeDocumentos\\obj\\",
+        "outputPath": "C:\\Arthur\\CSharpBrasil\\CSharpBrasil\\TrabalhandoComDatas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -43,12 +43,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Caelum.Stella.CSharp": {
-              "target": "Package",
-              "version": "[1.4.7, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

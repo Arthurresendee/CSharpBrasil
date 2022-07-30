@@ -1,0 +1,15 @@
+C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\bin\Debug\net6.0\TrabalhandoComDatas.exe
+C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\bin\Debug\net6.0\TrabalhandoComDatas.deps.json
+C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\bin\Debug\net6.0\TrabalhandoComDatas.runtimeconfig.json
+C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\bin\Debug\net6.0\TrabalhandoComDatas.dll
+C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\bin\Debug\net6.0\TrabalhandoComDatas.pdb
+C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\obj\Debug\net6.0\TrabalhandoComDatas.csproj.AssemblyReference.cache
+C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\obj\Debug\net6.0\TrabalhandoComDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\obj\Debug\net6.0\TrabalhandoComDatas.AssemblyInfoInputs.cache
+C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\obj\Debug\net6.0\TrabalhandoComDatas.AssemblyInfo.cs
+C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\obj\Debug\net6.0\TrabalhandoComDatas.csproj.CoreCompileInputs.cache
+C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\obj\Debug\net6.0\TrabalhandoComDatas.dll
+C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\obj\Debug\net6.0\refint\TrabalhandoComDatas.dll
+C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\obj\Debug\net6.0\TrabalhandoComDatas.pdb
+C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\obj\Debug\net6.0\TrabalhandoComDatas.genruntimeconfig.cache
+C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\obj\Debug\net6.0\ref\TrabalhandoComDatas.dll
