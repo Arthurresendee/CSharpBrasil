@@ -5236,9 +5236,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Arthur\\CSharpBrasil\\CSharpBrasil\\ValidadorDeDocumentos\\ValidadorDeDocumentos.csproj",
-      "projectName": "ValidadorDeDocumentos",
-      "projectPath": "C:\\Arthur\\CSharpBrasil\\CSharpBrasil\\ValidadorDeDocumentos\\ValidadorDeDocumentos.csproj",
+      "projectUniqueName": "C:\\Arthur\\CSharpBrasil\\CSharpBrasil\\ValidadorDeDocumentos\\Documentos.csproj",
+      "projectName": "Documentos",
+      "projectPath": "C:\\Arthur\\CSharpBrasil\\CSharpBrasil\\ValidadorDeDocumentos\\Documentos.csproj",
       "packagesPath": "C:\\Users\\Arthur\\.nuget\\packages\\",
       "outputPath": "C:\\Arthur\\CSharpBrasil\\CSharpBrasil\\ValidadorDeDocumentos\\obj\\",
       "projectStyle": "PackageReference",

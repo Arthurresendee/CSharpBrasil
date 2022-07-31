@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WZxGUGx0hx1brPtWV+yxS6u+XAH7yXHnijZZcD4IXaxqzIvGC0CtdrCYpNjM3sg86hWanM73gN+9Du6LVvZ+BA==",
+  "dgSpecHash": "GJfztObbBxnRAT6/KIe5xkOO9QLRaUUpkCYYYO2ykRSlekXuowHm1O84OU+aBpu0M+LzT4cbDL1Qd+Pq1Sf/3Q==",
   "success": true,
-  "projectFilePath": "C:\\Arthur\\CSharpBrasil\\CSharpBrasil\\ValidadorDeDocumentos\\ValidadorDeDocumentos.csproj",
+  "projectFilePath": "C:\\Arthur\\CSharpBrasil\\CSharpBrasil\\ValidadorDeDocumentos\\Documentos.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Arthur\\.nuget\\packages\\caelum.stella.csharp\\1.4.7\\caelum.stella.csharp.1.4.7.nupkg.sha512",
     "C:\\Users\\Arthur\\.nuget\\packages\\microsoft.csharp\\4.3.0\\microsoft.csharp.4.3.0.nupkg.sha512",

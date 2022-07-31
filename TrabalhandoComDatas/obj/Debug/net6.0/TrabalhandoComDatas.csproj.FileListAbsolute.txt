@@ -13,3 +13,6 @@ C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\obj\Debug\net6.0\refint\
 C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\obj\Debug\net6.0\TrabalhandoComDatas.pdb
 C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\obj\Debug\net6.0\TrabalhandoComDatas.genruntimeconfig.cache
 C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\obj\Debug\net6.0\ref\TrabalhandoComDatas.dll
+C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\bin\Debug\net6.0\Caelum.Stella.CSharp.dll
+C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Arthur\CSharpBrasil\CSharpBrasil\TrabalhandoComDatas\obj\Debug\net6.0\TrabalhandoComDatas.csproj.CopyComplete

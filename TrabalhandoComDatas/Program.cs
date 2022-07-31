@@ -1,7 +1,7 @@
 ﻿using System.Diagnostics;
 using System.Globalization;
 
-namespace TrabalhandoComDatas
+namespace Datas
 {
     class Program
     {

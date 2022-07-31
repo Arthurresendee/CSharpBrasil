@@ -2,7 +2,7 @@
 using Caelum.Stella.CSharp.Validation;
 using System.Diagnostics;
 
-namespace ValidadorDeDocumentos
+namespace Documentos
 {
     class Program
     {
